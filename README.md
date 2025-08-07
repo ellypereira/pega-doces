@@ -3,7 +3,7 @@
 Um jogo fofo e divertido feito com Python e Pygame!  
 Desvie dos doces? Não! Pegue todos! 😄
 
-![Capa do Jogo](https://github.com/ellypereira/pega-doces/joguinho.png)
+![Capa do Jogo](https://github.com/ellypereira/pega-doces/screenshot.png)
 
 ---
 
@@ -36,3 +36,7 @@ Você precisa do Python 3 instalado e da biblioteca `pygame`.
 
 ```bash
 pip install pygame
+
+❤️ Feito com amor (e açúcar)
+Criado por Grazzielly, aprendendo Python de forma doce 💖
+Powered by Pygame
