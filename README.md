@@ -3,7 +3,7 @@
 Um jogo fofo e divertido feito com Python e Pygame!  
 Desvie dos doces? Não! Pegue todos! 😄
 
-![Capa do Jogo](/..Área de Trabalho/scripts-python/pega-doces/joguinho)
+![Capa do Jogo](https://github.com/ellypereira/pega-doces/joguinho.png)
 
 ---
 
